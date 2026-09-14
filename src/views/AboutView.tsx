@@ -81,6 +81,109 @@ export const AboutView: React.FC<AboutViewProps> = ({ onNavigate }) => {
         </div>
       </div>
 
+      {/* Open Source Project Links & Creator */}
+      <div className="bg-white p-6 sm:p-8 rounded-3xl border border-slate-200 shadow-2xs space-y-6">
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-slate-100 pb-4">
+          <div>
+            <span className="text-xs font-bold uppercase tracking-wider text-sky-600">Desarrollo Cívico</span>
+            <h3 className="font-extrabold text-xl text-slate-900">Repositorio Oficial & Ecosistema</h3>
+          </div>
+          <a
+            href="https://github.com/arsabot/informar-app"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs px-4 py-2.5 rounded-xl transition-all shadow-sm shrink-0"
+          >
+            <Code className="w-4 h-4 text-sky-400" />
+            <span>Ver Código en GitHub</span>
+          </a>
+        </div>
+
+        <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
+          INFORMAR es un proyecto desarrollado por <a href="https://github.com/arsabot" target="_blank" rel="noopener noreferrer" className="font-bold text-sky-600 hover:underline">@arsabot (Rodrigo Saavedra)</a>. Conocé otros proyectos relacionados:
+        </p>
+
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 pt-1">
+          <a
+            href="https://github.com/arsabot/VocalizAR-AI"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="p-3.5 rounded-2xl bg-slate-50 hover:bg-sky-50 border border-slate-200/80 hover:border-sky-300 transition-all group block"
+          >
+            <div className="flex items-center justify-between">
+              <span className="font-bold text-xs text-slate-900 group-hover:text-sky-700">🤖 VocalizAR-AI</span>
+              <span className="text-[10px] text-slate-400">GitHub →</span>
+            </div>
+            <p className="text-[11px] text-slate-500 mt-1">Lector de textos con IA, OCR y síntesis neuronal de voz.</p>
+          </a>
+
+          <a
+            href="https://github.com/arsabot/parkia-pescar"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="p-3.5 rounded-2xl bg-slate-50 hover:bg-sky-50 border border-slate-200/80 hover:border-sky-300 transition-all group block"
+          >
+            <div className="flex items-center justify-between">
+              <span className="font-bold text-xs text-slate-900 group-hover:text-sky-700">🚗 PARKIA</span>
+              <span className="text-[10px] text-slate-400">GitHub →</span>
+            </div>
+            <p className="text-[11px] text-slate-500 mt-1">Plataforma inteligente de reserva de estacionamientos con Leaflet & Django.</p>
+          </a>
+
+          <a
+            href="https://github.com/arsabot/forge-champions"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="p-3.5 rounded-2xl bg-slate-50 hover:bg-sky-50 border border-slate-200/80 hover:border-sky-300 transition-all group block"
+          >
+            <div className="flex items-center justify-between">
+              <span className="font-bold text-xs text-slate-900 group-hover:text-sky-700">🎓 Forge Champions</span>
+              <span className="text-[10px] text-slate-400">GitHub →</span>
+            </div>
+            <p className="text-[11px] text-slate-500 mt-1">Portal de mentorías y masterclasses para Fundación Forge.</p>
+          </a>
+
+          <a
+            href="https://invitely-delta-dun.vercel.app"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="p-3.5 rounded-2xl bg-slate-50 hover:bg-sky-50 border border-slate-200/80 hover:border-sky-300 transition-all group block"
+          >
+            <div className="flex items-center justify-between">
+              <span className="font-bold text-xs text-slate-900 group-hover:text-sky-700">💌 Invitely</span>
+              <span className="text-[10px] text-slate-400">Web Demo →</span>
+            </div>
+            <p className="text-[11px] text-slate-500 mt-1">SaaS de invitaciones interactivas con RSVP en tiempo real.</p>
+          </a>
+
+          <a
+            href="https://github.com/arsabot/Mac-Duo"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="p-3.5 rounded-2xl bg-slate-50 hover:bg-sky-50 border border-slate-200/80 hover:border-sky-300 transition-all group block"
+          >
+            <div className="flex items-center justify-between">
+              <span className="font-bold text-xs text-slate-900 group-hover:text-sky-700">💻 Mac-Duo</span>
+              <span className="text-[10px] text-slate-400">GitHub →</span>
+            </div>
+            <p className="text-[11px] text-slate-500 mt-1">Efecto Dynamic Island y notificaciones fluidas para MacBook.</p>
+          </a>
+
+          <a
+            href="https://arsabot.github.io"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="p-3.5 rounded-2xl bg-slate-50 hover:bg-sky-50 border border-slate-200/80 hover:border-sky-300 transition-all group block"
+          >
+            <div className="flex items-center justify-between">
+              <span className="font-bold text-xs text-slate-900 group-hover:text-sky-700">🌐 Portafolio Completo</span>
+              <span className="text-[10px] text-slate-400">Visitar →</span>
+            </div>
+            <p className="text-[11px] text-slate-500 mt-1">Perfil profesional, métricas GitHub y proyectos de software.</p>
+          </a>
+        </div>
+      </div>
+
       {/* CTA Box */}
       <div className="bg-slate-900 text-white rounded-3xl p-8 text-center space-y-4 border border-slate-800">
         <h3 className="text-2xl font-extrabold tracking-tight">
