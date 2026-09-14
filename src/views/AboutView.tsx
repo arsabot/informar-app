@@ -157,6 +157,19 @@ export const AboutView: React.FC<AboutViewProps> = ({ onNavigate }) => {
           </a>
 
           <a
+            href="https://github.com/arsabot/lingua"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="p-3.5 rounded-2xl bg-slate-50 hover:bg-sky-50 border border-slate-200/80 hover:border-sky-300 transition-all group block"
+          >
+            <div className="flex items-center justify-between">
+              <span className="font-bold text-xs text-slate-900 group-hover:text-sky-700">🗣️ Lingua (AWS AI)</span>
+              <span className="text-[10px] text-slate-400">GitHub →</span>
+            </div>
+            <p className="text-[11px] text-slate-500 mt-1">Tutor virtual de idiomas con IA, streaming y arquitectura Serverless.</p>
+          </a>
+
+          <a
             href="https://github.com/arsabot/Mac-Duo"
             target="_blank"
             rel="noopener noreferrer"
