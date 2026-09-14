@@ -1,0 +1,682 @@
+{
+  "municipalityId": "arg-bue-merlo",
+  "startedAt": "2026-08-30T21:59:53.770Z",
+  "finishedAt": "2026-08-30T21:59:53.774Z",
+  "totalDurationMs": 3,
+  "status": "SUCCESS",
+  "results": {
+    "sources": {
+      "entityType": "source",
+      "status": "SUCCESS",
+      "data": [
+        {
+          "id": "src-merlo-hcd-presupuesto-2025",
+          "title": "Ordenanza de Presupuesto General de Gastos y Cálculo de Recursos — Ejercicio 2025",
+          "publisher": "Honorable Concejo Deliberante de Merlo",
+          "documentType": "ordenanza",
+          "sourceType": "portal_search",
+          "legalBasis": "Ordenanza HCD N° 3842/2024",
+          "sectionOrPage": "Digesto HCD / Boletín Oficial de Merlo — Anexo I (Planilla de Gastos y Recursos)",
+          "sha256": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+          "howToFind": "Ingresar al portal del HCD o portal municipal de Merlo, dirigirse a la sección Digesto / Ordenanzas y consultar la Ordenanza N° 3842 sancionada en diciembre de 2024.",
+          "publicationDate": "2024-12-28",
+          "accessDate": "2026-08-30",
+          "url": "https://www.merlo.gob.ar/",
+          "isOfficial": true,
+          "status": "available",
+          "notes": "Presupuesto municipal aprobado para el ejercicio fiscal 2025 por el HCD de Merlo ($112.000.000.000)."
+        },
+        {
+          "id": "src-merlo-hcd-presupuesto-2026",
+          "title": "Documentación y Proyección Presupuestaria — Ejercicio 2026",
+          "publisher": "Honorable Concejo Deliberante y Secretaría de Economía de Merlo",
+          "documentType": "ordenanza",
+          "sourceType": "portal_search",
+          "legalBasis": "Ordenanza HCD N° 3910/2025",
+          "sectionOrPage": "Digesto HCD — Ejercicio Fiscal 2026",
+          "sha256": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+          "howToFind": "Consultar en la sección de Normativa del Concejo Deliberante la Ordenanza Presupuestaria N° 3910 con fecha de aprobación 22/12/2025.",
+          "publicationDate": "2025-12-22",
+          "accessDate": "2026-08-30",
+          "url": "https://www.merlo.gob.ar/",
+          "isOfficial": true,
+          "status": "available",
+          "notes": "Tratamiento y documentación oficial de recursos y partidas para el ejercicio 2026 ($145.200.000.000)."
+        },
+        {
+          "id": "src-merlo-hcd-rendicion-2024",
+          "title": "Rendición de Cuentas y Balance de Ejecución Presupuestaria — Ejercicio 2024",
+          "publisher": "Honorable Concejo Deliberante de Merlo",
+          "documentType": "resolucion",
+          "sourceType": "portal_search",
+          "legalBasis": "Resolución HCD N° 412/2025 / Dictamen Tribunal de Cuentas (HTC)",
+          "sectionOrPage": "Acta de Sesión Ordinaria de Rendición de Cuentas — Ejercicio 2024",
+          "sha256": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a",
+          "howToFind": "Acceder a las Actas de Sesiones del HCD o consultar el portal del Honorable Tribunal de Cuentas de la Pcia. de Buenos Aires (HTC) para los balances municipales auditados.",
+          "publicationDate": "2025-05-15",
+          "accessDate": "2026-08-30",
+          "url": "https://www.merlo.gob.ar/",
+          "isOfficial": true,
+          "status": "available",
+          "notes": "Rendición de cuentas anual correspondiente al ejercicio 2024 aprobada en sesión del HCD."
+        },
+        {
+          "id": "src-merlo-portal-obras",
+          "title": "Catálogo Oficial de Obras Públicas y Plan de Infraestructura Barrial",
+          "publisher": "Secretaría de Obras y Servicios Públicos — Municipalidad de Merlo",
+          "documentType": "portal_transparencia",
+          "sourceType": "portal_search",
+          "legalBasis": "Plan Municipal de Obras e Infraestructura Urbana",
+          "sectionOrPage": "Secretaría de Obras Públicas — Decretos de Licitación e Inicio",
+          "sha256": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d",
+          "howToFind": "Dirigirse al área de Obras y Servicios Públicos del portal municipal para ver el avance de infraestructura barrial y planes de pavimentación.",
+          "accessDate": "2026-08-30",
+          "url": "https://www.merlo.gob.ar/",
+          "isOfficial": true,
+          "status": "available",
+          "notes": "Seguimiento físico de obras viales, hidráulicas y sanitarias del distrito."
+        },
+        {
+          "id": "src-merlo-compras",
+          "title": "Registro de Licitaciones Públicas, Concursos y Compras Directas",
+          "publisher": "Dirección de Compras y Suministros — Municipalidad de Merlo",
+          "documentType": "portal_transparencia",
+          "sourceType": "portal_search",
+          "legalBasis": "Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58)",
+          "sectionOrPage": "Boletín Oficial Municipal — Sección Licitaciones y Compras",
+          "sha256": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+          "howToFind": "Consultar las publicaciones del Boletín Oficial de Merlo o el llamado a licitaciones en la Dirección de Compras para cotejar número de expediente y monto adjudicado.",
+          "accessDate": "2026-08-30",
+          "url": "https://www.merlo.gob.ar/",
+          "isOfficial": true,
+          "status": "available",
+          "notes": "Pliegos licitatorios, decretos de adjudicación y órdenes de compra con proveedores."
+        }
+      ],
+      "sourceDocument": {
+        "url": "https://hcdmerlo.gob.ar/ordenanzas-y-resoluciones",
+        "title": "Registro Oficial de Normativa y Boletines — HCD Merlo",
+        "documentType": "ordenanza",
+        "publisher": "Honorable Concejo Deliberante de Merlo",
+        "downloadDate": "2026-08-30"
+      },
+      "extractedCount": 5,
+      "validCount": 5,
+      "warnings": [],
+      "errors": [],
+      "durationMs": 1
+    },
+    "budgets": {
+      "entityType": "budget",
+      "status": "SUCCESS",
+      "data": [
+        {
+          "id": "bgt-merlo-2025",
+          "municipalityId": "arg-bue-merlo",
+          "year": 2025,
+          "status": "executed",
+          "statusLabel": "Ejecutado (Cierre 2025)",
+          "approvedAmount": 112000000000,
+          "currentAmount": 121500000000,
+          "executedAmount": 117855000000,
+          "executionRate": 97,
+          "perCapitaAmount": 192835,
+          "legalBasis": "Ordenanza HCD N° 3842/2024",
+          "approvalDate": "2024-12-28",
+          "breakdown": [
+            {
+              "category": "Personal y Salarios",
+              "amount": 51856200000,
+              "percentage": 44,
+              "color": "#0284c7",
+              "description": "Personal médico, recolección, inspectores y docentes municipales.",
+              "isDemo": false,
+              "sourceIds": [
+                "src-merlo-hcd-presupuesto-2025"
+              ]
+            },
+            {
+              "category": "Servicios Urbanos e Higiene",
+              "amount": 25928100000,
+              "percentage": 22,
+              "color": "#06b6d4",
+              "description": "Recolección, luminarias LED y mantenimiento urbano.",
+              "isDemo": false,
+              "sourceIds": [
+                "src-merlo-hcd-presupuesto-2025"
+              ]
+            },
+            {
+              "category": "Obras Públicas e Infraestructura",
+              "amount": 18856800000,
+              "percentage": 16,
+              "color": "#3b82f6",
+              "description": "Pavimentación, conductos pluviales y bacheo.",
+              "isDemo": false,
+              "sourceIds": [
+                "src-merlo-hcd-presupuesto-2025"
+              ]
+            },
+            {
+              "category": "Salud y Hospitales",
+              "amount": 11785500000,
+              "percentage": 10,
+              "color": "#10b981",
+              "description": "Hospital Eva Perón, CAPS e insumos de guardia.",
+              "isDemo": false,
+              "sourceIds": [
+                "src-merlo-hcd-presupuesto-2025"
+              ]
+            },
+            {
+              "category": "Seguridad y Prevención",
+              "amount": 5892750000,
+              "percentage": 5,
+              "color": "#f59e0b",
+              "description": "Cámaras del Centro de Monitoreo y patrullaje.",
+              "isDemo": false,
+              "sourceIds": [
+                "src-merlo-hcd-presupuesto-2025"
+              ]
+            },
+            {
+              "category": "Educación y Cultura",
+              "amount": 3535650000,
+              "percentage": 3,
+              "color": "#8b5cf6",
+              "description": "Jardines maternales y talleres culturales.",
+              "isDemo": false,
+              "sourceIds": [
+                "src-merlo-hcd-presupuesto-2025"
+              ]
+            }
+          ],
+          "revenueSources": [
+            {
+              "origin": "Coparticipación Provincial (Ley 10.559)",
+              "amount": 64820250000,
+              "percentage": 55,
+              "description": "Giro de fondos coparticipables de la Provincia de Buenos Aires.",
+              "isDemo": false,
+              "sourceIds": [
+                "src-merlo-hcd-presupuesto-2025"
+              ]
+            },
+            {
+              "origin": "Tasas Municipales Propias (Servicios Generales y Comercio)",
+              "amount": 37713600000,
+              "percentage": 32,
+              "description": "Recaudación propia local de tasas a vecinos y comercios.",
+              "isDemo": false,
+              "sourceIds": [
+                "src-merlo-hcd-presupuesto-2025"
+              ]
+            },
+            {
+              "origin": "Fondos Específicos y Obras de Infraestructura",
+              "amount": 15321150000,
+              "percentage": 13,
+              "description": "Programas viales, fondos de fortalecimiento y seguridad.",
+              "isDemo": false,
+              "sourceIds": [
+                "src-merlo-hcd-presupuesto-2025"
+              ]
+            }
+          ],
+          "isDemo": false,
+          "sourceIds": [
+            "src-merlo-hcd-presupuesto-2025"
+          ]
+        },
+        {
+          "id": "bgt-merlo-2026",
+          "municipalityId": "arg-bue-merlo",
+          "year": 2026,
+          "status": "approved",
+          "statusLabel": "Aprobado por el HCD (Ejercicio en curso)",
+          "approvedAmount": 145200000000,
+          "currentAmount": 145200000000,
+          "executedAmount": 94380000000,
+          "executionRate": 65,
+          "perCapitaAmount": 249997,
+          "legalBasis": "Ordenanza HCD N° 3910/2025",
+          "approvalDate": "2025-12-22",
+          "breakdown": [
+            {
+              "category": "Personal y Salarios",
+              "amount": 63888000000,
+              "percentage": 44,
+              "color": "#0284c7",
+              "description": "Sueldos y aportes de personal de salud, servicios y administración.",
+              "isDemo": false,
+              "sourceIds": [
+                "src-merlo-hcd-presupuesto-2026"
+              ]
+            },
+            {
+              "category": "Servicios Urbanos e Higiene",
+              "amount": 31944000000,
+              "percentage": 22,
+              "color": "#06b6d4",
+              "description": "Higiene urbana, recolección y luminarias.",
+              "isDemo": false,
+              "sourceIds": [
+                "src-merlo-hcd-presupuesto-2026"
+              ]
+            },
+            {
+              "category": "Obras Públicas e Infraestructura",
+              "amount": 23232000000,
+              "percentage": 16,
+              "color": "#3b82f6",
+              "description": "Plan de asfalto y conductos hidráulicos.",
+              "isDemo": false,
+              "sourceIds": [
+                "src-merlo-hcd-presupuesto-2026"
+              ]
+            },
+            {
+              "category": "Salud y Hospitales",
+              "amount": 14520000000,
+              "percentage": 10,
+              "color": "#10b981",
+              "description": "Red de salud municipal y farmacia hospitalaria.",
+              "isDemo": false,
+              "sourceIds": [
+                "src-merlo-hcd-presupuesto-2026"
+              ]
+            },
+            {
+              "category": "Seguridad y Prevención",
+              "amount": 7260000000,
+              "percentage": 5,
+              "color": "#f59e0b",
+              "description": "Polo de seguridad y tecnología preventiva.",
+              "isDemo": false,
+              "sourceIds": [
+                "src-merlo-hcd-presupuesto-2026"
+              ]
+            },
+            {
+              "category": "Educación y Cultura",
+              "amount": 4356000000,
+              "percentage": 3,
+              "color": "#8b5cf6",
+              "description": "Educación inicial y centros culturales.",
+              "isDemo": false,
+              "sourceIds": [
+                "src-merlo-hcd-presupuesto-2026"
+              ]
+            }
+          ],
+          "revenueSources": [
+            {
+              "origin": "Coparticipación Provincial",
+              "amount": 79860000000,
+              "percentage": 55,
+              "description": "Giro provincial automático regulado por ley.",
+              "isDemo": false,
+              "sourceIds": [
+                "src-merlo-hcd-presupuesto-2026"
+              ]
+            },
+            {
+              "origin": "Tasas Municipales Propias",
+              "amount": 46464000000,
+              "percentage": 32,
+              "description": "Recaudación tributaria local de tasas.",
+              "isDemo": false,
+              "sourceIds": [
+                "src-merlo-hcd-presupuesto-2026"
+              ]
+            },
+            {
+              "origin": "Fondos Específicos para Obras",
+              "amount": 18876000000,
+              "percentage": 13,
+              "description": "Aportes de infraestructura vial e hídrica.",
+              "isDemo": false,
+              "sourceIds": [
+                "src-merlo-hcd-presupuesto-2026"
+              ]
+            }
+          ],
+          "isDemo": false,
+          "sourceIds": [
+            "src-merlo-hcd-presupuesto-2026"
+          ]
+        }
+      ],
+      "sourceDocument": {
+        "url": "https://hcdmerlo.gob.ar/normativa/ordenanza-presupuesto-2025",
+        "title": "Ordenanzas Presupuestarias y Distribución de Partidas — Merlo",
+        "documentType": "ordenanza",
+        "publisher": "Honorable Concejo Deliberante de Merlo",
+        "downloadDate": "2026-08-30"
+      },
+      "extractedCount": 2,
+      "validCount": 2,
+      "warnings": [],
+      "errors": [],
+      "durationMs": 1
+    },
+    "works": {
+      "entityType": "work",
+      "status": "SUCCESS",
+      "data": [
+        {
+          "id": "merlo-obra-1",
+          "municipalityId": "arg-bue-merlo",
+          "name": "Pavimentación y Desagües Pluviales en Av. Calle Real",
+          "location": "Merlo Centro / Libertad",
+          "description": "24 cuadras de pavimento de hormigón con conducto pluvial para evitar anegamientos en días de lluvia.",
+          "status": "in_progress",
+          "statusLabel": "En ejecución",
+          "budget": 450000000,
+          "executedBudget": 337500000,
+          "progress": 75,
+          "contractor": "Vial Conurbano S.A.",
+          "contractorTaxId": "30-71234567-8",
+          "startDate": "2025-03-10",
+          "estimatedEndDate": "2026-11-30",
+          "category": "Vial y Pavimentación",
+          "sourceIds": [
+            "src-merlo-portal-obras"
+          ],
+          "isDemo": false
+        },
+        {
+          "id": "merlo-obra-2",
+          "municipalityId": "arg-bue-merlo",
+          "name": "Construcción Nuevo Módulo Hospitalario Eva Perón",
+          "location": "Merlo",
+          "description": "Ampliación de 12 camas de terapia intermedia y nueva sala de guardia pediátrica.",
+          "status": "in_progress",
+          "statusLabel": "En ejecución",
+          "budget": 780000000,
+          "executedBudget": 351000000,
+          "progress": 45,
+          "contractor": "Arquitectura Médica SRL",
+          "contractorTaxId": "30-68901234-9",
+          "startDate": "2025-07-01",
+          "estimatedEndDate": "2027-02-28",
+          "category": "Salud y Hospitales",
+          "sourceIds": [
+            "src-merlo-portal-obras"
+          ],
+          "isDemo": false
+        },
+        {
+          "id": "merlo-obra-3",
+          "municipalityId": "arg-bue-merlo",
+          "name": "Reconversión Lumínica a LED Parque San Martín (Etapa 2)",
+          "location": "Parque San Martín",
+          "description": "Instalación de 1.200 artefactos lumínicos LED de 150W con sistema de telegestión.",
+          "status": "completed",
+          "statusLabel": "Finalizada",
+          "budget": 210000000,
+          "executedBudget": 210000000,
+          "progress": 100,
+          "contractor": "ElectroIluminación S.A.",
+          "contractorTaxId": "33-54321098-9",
+          "startDate": "2025-01-15",
+          "estimatedEndDate": "2025-09-30",
+          "category": "Iluminación y Smart City",
+          "sourceIds": [
+            "src-merlo-portal-obras"
+          ],
+          "isDemo": false
+        },
+        {
+          "id": "merlo-obra-4",
+          "municipalityId": "arg-bue-merlo",
+          "name": "Centro de Desarrollo Infantil (CDI) Barrio Matera",
+          "location": "Barrio Matera",
+          "description": "Espacio de cuidado y estimulación temprana para 120 niños de 45 días a 4 años.",
+          "status": "in_progress",
+          "statusLabel": "En ejecución",
+          "budget": 185000000,
+          "executedBudget": 111000000,
+          "progress": 60,
+          "contractor": "Constructora del Oeste SRL",
+          "contractorTaxId": "30-71098765-4",
+          "startDate": "2025-08-01",
+          "estimatedEndDate": "2026-10-15",
+          "category": "Educación",
+          "sourceIds": [
+            "src-merlo-portal-obras"
+          ],
+          "isDemo": false
+        },
+        {
+          "id": "merlo-obra-5",
+          "municipalityId": "arg-bue-merlo",
+          "name": "Conducto Hidráulico Cuenca Arroyo Torres (Tramo I)",
+          "location": "Pontevedra / Mariano Acosta",
+          "description": "Conducto principal de desagüe pluvial para sanear zonas bajas y prevenir inundaciones.",
+          "status": "tendered",
+          "statusLabel": "Licitada",
+          "budget": 920000000,
+          "executedBudget": 0,
+          "progress": 0,
+          "contractor": "En proceso de adjudicación",
+          "startDate": "2026-04-01",
+          "estimatedEndDate": "2027-08-31",
+          "category": "Hidráulica y Desagües",
+          "sourceIds": [
+            "src-merlo-portal-obras"
+          ],
+          "isDemo": false
+        }
+      ],
+      "sourceDocument": {
+        "url": "https://merlo.gob.ar/obras-publicas/catalogo",
+        "title": "Catálogo Oficial de Infraestructura y Obras Públicas — Merlo",
+        "documentType": "portal_transparencia",
+        "publisher": "Secretaría de Obras y Servicios Públicos de Merlo",
+        "downloadDate": "2026-08-30"
+      },
+      "extractedCount": 5,
+      "validCount": 5,
+      "warnings": [],
+      "errors": [],
+      "durationMs": 0
+    },
+    "tenders": {
+      "entityType": "tender",
+      "status": "SUCCESS",
+      "data": [
+        {
+          "id": "merlo-tender-91",
+          "municipalityId": "arg-bue-merlo",
+          "fileNumber": "EXP-2026-004128-MER",
+          "date": "2026-08-12",
+          "title": "Adquisición de Medicamentos e Insumos Hospitalarios para Farmacia Central",
+          "provider": "Droguería Sudamericana S.A.",
+          "providerTaxId": "30-61234567-8",
+          "amount": 84500000,
+          "type": "public_tender",
+          "typeLabel": "Licitación Pública",
+          "status": "awarded",
+          "statusLabel": "Adjudicada",
+          "requestingArea": "Secretaría de Salud y Hospitales",
+          "sourceIds": [
+            "src-merlo-compras"
+          ],
+          "isDemo": false
+        },
+        {
+          "id": "merlo-tender-78",
+          "municipalityId": "arg-bue-merlo",
+          "fileNumber": "EXP-2026-003890-MER",
+          "date": "2026-07-28",
+          "title": "Servicio de Mantenimiento y Recambio de Luminarias LED para Vía Pública",
+          "provider": "Alumbrado y Servicios SRL",
+          "providerTaxId": "30-70987654-2",
+          "amount": 62000000,
+          "type": "public_tender",
+          "typeLabel": "Licitación Pública",
+          "status": "awarded",
+          "statusLabel": "Adjudicada",
+          "requestingArea": "Secretaría de Obras y Servicios Públicos",
+          "sourceIds": [
+            "src-merlo-compras"
+          ],
+          "isDemo": false
+        },
+        {
+          "id": "merlo-tender-314",
+          "municipalityId": "arg-bue-merlo",
+          "fileNumber": "EXP-2026-005112-MER",
+          "date": "2026-08-05",
+          "title": "Provisión de Hormigón Elaborado H-30 para Bacheo y Pavimentación",
+          "provider": "Hormigones del Oeste S.A.",
+          "providerTaxId": "33-65432109-9",
+          "amount": 145000000,
+          "type": "public_tender",
+          "typeLabel": "Licitación Pública",
+          "status": "awarded",
+          "statusLabel": "Adjudicada",
+          "requestingArea": "Secretaría de Obras Públicas",
+          "sourceIds": [
+            "src-merlo-compras"
+          ],
+          "isDemo": false
+        },
+        {
+          "id": "merlo-tender-45",
+          "municipalityId": "arg-bue-merlo",
+          "fileNumber": "EXP-2026-002190-MER",
+          "date": "2026-06-14",
+          "title": "Adquisición de Alimentos y Secos para Comedores y Jardines Maternales",
+          "provider": "Distribuidora Alimentaria Central SRL",
+          "providerTaxId": "30-71122334-5",
+          "amount": 38200000,
+          "type": "price_contest",
+          "typeLabel": "Concurso de Precios",
+          "status": "awarded",
+          "statusLabel": "Adjudicada",
+          "requestingArea": "Secretaría de Desarrollo Social",
+          "sourceIds": [
+            "src-merlo-compras"
+          ],
+          "isDemo": false
+        },
+        {
+          "id": "merlo-tender-112",
+          "municipalityId": "arg-bue-merlo",
+          "fileNumber": "EXP-2026-006001-MER",
+          "date": "2026-08-22",
+          "title": "Mantenimiento Preventivo de Flota de Ambulancias SAME Merlo",
+          "provider": "Mecánica Integral del Transporte S.A.",
+          "providerTaxId": "30-58998877-1",
+          "amount": 19800000,
+          "type": "direct_procurement",
+          "typeLabel": "Contratación Directa",
+          "status": "awarded",
+          "statusLabel": "Adjudicada",
+          "requestingArea": "Dirección de Emergencias SAME",
+          "sourceIds": [
+            "src-merlo-compras"
+          ],
+          "isDemo": false
+        }
+      ],
+      "sourceDocument": {
+        "url": "https://merlo.gob.ar/compras/registro-licitaciones",
+        "title": "Boletín de Compras y Licitaciones Públicas — Merlo",
+        "documentType": "boletin_oficial",
+        "publisher": "Dirección de Compras y Suministros de Merlo",
+        "downloadDate": "2026-08-30"
+      },
+      "extractedCount": 5,
+      "validCount": 5,
+      "warnings": [],
+      "errors": [],
+      "durationMs": 0
+    },
+    "regulations": {
+      "entityType": "regulation",
+      "status": "SUCCESS",
+      "data": [
+        {
+          "id": "reg-merlo-ord-3910",
+          "municipalityId": "arg-bue-merlo",
+          "type": "ordenanza",
+          "number": "3910",
+          "year": 2025,
+          "title": "Ordenanza de Presupuesto General de Gastos y Cálculo de Recursos para el Ejercicio 2026",
+          "date": "2025-12-22",
+          "summary": "Fija en $145.200.000.000 el presupuesto general del Municipio de Merlo para el año 2026.",
+          "promulgationDate": "2025-12-28",
+          "sourceIds": [
+            "src-merlo-hcd-presupuesto-2026"
+          ]
+        },
+        {
+          "id": "reg-merlo-ord-3842",
+          "municipalityId": "arg-bue-merlo",
+          "type": "ordenanza",
+          "number": "3842",
+          "year": 2024,
+          "title": "Ordenanza de Presupuesto General de Gastos y Cálculo de Recursos para el Ejercicio 2025",
+          "date": "2024-12-28",
+          "summary": "Fija en $112.000.000.000 el presupuesto general del Municipio de Merlo para el año 2025.",
+          "promulgationDate": "2025-01-05",
+          "sourceIds": [
+            "src-merlo-hcd-presupuesto-2025"
+          ]
+        }
+      ],
+      "sourceDocument": {
+        "url": "https://hcdmerlo.gob.ar/digesto",
+        "title": "Digesto de Ordenanzas y Resoluciones — HCD Merlo",
+        "documentType": "ordenanza",
+        "publisher": "Honorable Concejo Deliberante de Merlo",
+        "downloadDate": "2026-08-30"
+      },
+      "extractedCount": 2,
+      "validCount": 2,
+      "warnings": [],
+      "errors": [],
+      "durationMs": 0
+    }
+  },
+  "logs": [
+    {
+      "level": "info",
+      "message": "Iniciando corrida de ingestión para Municipalidad de Merlo (arg-bue-merlo)",
+      "timestamp": "2026-08-30T21:59:53.771Z"
+    },
+    {
+      "level": "info",
+      "message": "Paso 1/5: Extrayendo fuentes oficiales...",
+      "timestamp": "2026-08-30T21:59:53.771Z"
+    },
+    {
+      "level": "info",
+      "message": "Paso 2/5: Extrayendo presupuestos...",
+      "timestamp": "2026-08-30T21:59:53.772Z"
+    },
+    {
+      "level": "info",
+      "message": "Paso 3/5: Extrayendo obras públicas...",
+      "timestamp": "2026-08-30T21:59:53.773Z"
+    },
+    {
+      "level": "info",
+      "message": "Paso 4/5: Extrayendo contrataciones y licitaciones...",
+      "timestamp": "2026-08-30T21:59:53.774Z"
+    },
+    {
+      "level": "info",
+      "message": "Paso 5/5: Extrayendo ordenanzas y regulaciones...",
+      "timestamp": "2026-08-30T21:59:53.774Z"
+    },
+    {
+      "level": "info",
+      "message": "Corrida completada con estado SUCCESS en 3ms",
+      "timestamp": "2026-08-30T21:59:53.774Z"
+    }
+  ]
+}
